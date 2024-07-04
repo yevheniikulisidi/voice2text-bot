@@ -18,7 +18,7 @@ To run this bot, you need to have Docker installed. You can download Docker from
 
 - Pull and run the Docker image:
   ```bash
-  docker run --name voice2text-bot -e TELEGRAM_BOT_TOKEN=your-telegram-bot-token -e OPENAI_API_KEY=your-openai-api-key kulisidi/voice2text-bot -d ykulisidi/voice2textbot
+  docker run --name voice2text-bot -e TELEGRAM_BOT_TOKEN=your-telegram-bot-token -e OPENAI_API_KEY=your-openai-api-key -d ykulisidi/voice2textbot
   ```
 
 ## Development

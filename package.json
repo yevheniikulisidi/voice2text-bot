@@ -1,6 +1,6 @@
 {
   "name": "voice2text-bot",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Telegram bot for converting voice messages to text using the OpenAI API.",
   "author": "Yevhenii Kulisidi",
   "private": true,

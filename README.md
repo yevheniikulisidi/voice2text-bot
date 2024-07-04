@@ -23,6 +23,10 @@ To run this bot, you need to have Docker installed. You can download Docker from
 
 ## Development
 
+### Prerequisites
+
+You need to have `ffmpeg` installed for audio processing. Download it from the [official website](https://ffmpeg.org/download.html) or use your OS's package manager.
+
 1. **Clone the repository**:
 
    ```bash
